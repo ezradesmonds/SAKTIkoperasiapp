@@ -14,7 +14,7 @@ The application combines a practical Streamlit management dashboard with context
 ## Quick Links
 
 - **Portfolio case study:** [ezradesmonds.my.id/work/tailor-cooperative-system](https://www.ezradesmonds.my.id/work/tailor-cooperative-system/)
-- **Repository:** [github.com/ezradesmonds/koperasi_app](https://github.com/ezradesmonds/koperasi_app)
+- **Repository:** [github.com/ezradesmonds/SAKTIkoperasiapp](https://github.com/ezradesmonds/SAKTIkoperasiapp)
 - **Event:** PCU × Singapore University of Technology and Design — GEO 2026
 - **Industry partner:** Koperasi Sumber Mulia Barokah
 - **Status:** Operational hackathon prototype
